@@ -1,0 +1,7 @@
+{"name":"Calculadora","thumbnail":"http://localhost:8080/img/01.jpg","price":25,"id":1}
+{"name":"Lapicero","thumbnail":"http://localhost:8080/img/01.jpg","price":"33","id":2}
+{"name":"Globo","thumbnail":"http://localhost:8080/img/01.jpg","price":18,"id":3}
+{"name":"Mouse","thumbnail":"http://localhost:8080/static/mouse.jpg","price":"500","id":4}
+{"name":"Laptop","thumbnail":"http://localhost:8080/img/01.jpg","price":20,"id":5}
+{"name":"Escuadra","thumbnail":"http://localhost:8080/img/01.jpg","price":30,"id":6}
+{"name":"tijeras amarillas","thumbnail":"imagen01.jpg","price":700,"id":7}
